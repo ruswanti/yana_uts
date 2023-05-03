@@ -1,3 +1,3 @@
 # yana_uts
-tugas pemrograman 
-https://docs.google.com/document/d/1a0wO9Al55afVNpJxe7l8iq6K9Xpw4rN9tjVjzZrhVoY/edit?usp=sharing
+tugas pemrograman
+https://drive.google.com/file/d/1wKe-GoRaqNwdD9prfz8EabF4Qp_quT0-/view?usp=sharing
